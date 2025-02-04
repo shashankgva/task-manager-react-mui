@@ -1,5 +1,5 @@
-# todoapp-reactjs-mui
-Todo Application Using Material Ui and React JS
+# Task Manager app reactjs + mui
+Task Manager Application Using Material Ui and React JS
 
 # Screens
 
